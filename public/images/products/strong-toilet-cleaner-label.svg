@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="116 272 176 246.39999999999998" width="800" height="1120">
+  <defs>
+    <linearGradient id="body-b" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#123E70"/>
+      <stop offset=".3" stop-color="#1D5FA8"/>
+      <stop offset=".55" stop-color="#5B9BE0"/>
+      <stop offset=".8" stop-color="#1D5FA8"/>
+      <stop offset="1" stop-color="#123E70"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="536" rx="92" ry="12" fill="#0B1F33" opacity=".14"/>
+  <path d="M210 240 L210 160 C210 118 186 100 148 94" fill="none" stroke="#123E70" stroke-width="38" stroke-linecap="round"/><path d="M210 240 L210 160 C210 118 186 100 148 94" fill="none" stroke="#1D5FA8" stroke-width="30" stroke-linecap="round"/><path d="M200 230 L200 162 C200 132 186 118 162 112" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="6" stroke-linecap="round"/>
+  <path d="M128 300 C128 262 150 248 180 244 L182 230 L238 230 L240 244 C262 248 280 262 280 300 L280 505 C280 524 268 532 250 532 L158 532 C140 532 128 524 128 505 Z" fill="url(#body-b)" fill-rule="evenodd"/>
+  
+  <path d="M144 310 C144 285 152 272 164 266 L164 505 C154 505 144 498 144 488 Z" fill="#fff" opacity=".28"/>
+  <rect x="184" y="222" width="52" height="18" rx="5" fill="#FFFFFF" stroke="#000" stroke-opacity=".08"/><path d="M146 74 L108 86 C102 88 102 100 108 102 L146 114 Z" fill="#FFFFFF" stroke="#000" stroke-opacity=".1"/>
+  
+  <clipPath id="lbl-b"><rect x="146" y="302" width="116" height="198" rx="14"/></clipPath>
+  <g clip-path="url(#lbl-b)">
+    <rect x="146" y="302" width="116" height="198" fill="#FFFFFF"/>
+    <rect x="146" y="466" width="116" height="34" fill="#1D5FA8"/>
+    <path d="M146 466 Q204 450 262 466 L262 470 Q204 456 146 470 Z" fill="#1D5FA8" opacity=".35"/>
+  </g>
+  <path d="M204 318 C211 328 214 333 214 337 A10 10 0 0 1 194 337 C194 333 197 328 204 318 Z" fill="#32B768"/>
+  <path d="M200 336 A5 5 0 0 0 205 341" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="204" y="372.42857142857144" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="31.071428571428573" letter-spacing="2.0714285714285716" fill="#102A43">DRCL</text>
+  <text x="204" y="384.8571428571429" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="600" font-size="6.214285714285715" letter-spacing="2.0714285714285716" fill="#5B6B7A">A CLEANER SPACE</text>
+  <rect x="188" y="391.07142857142856" width="32" height="2" rx="1" fill="#1D5FA8"/>
+  <text x="204" y="411.7857142857143" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="15.535714285714286" fill="#102A43">TOILET</text>
+  <text x="204" y="429.32142857142856" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="15.535714285714286" fill="#1D5FA8">CLEANER</text>
+  <text x="204" y="444.85714285714283" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="500" font-size="8.285714285714286" fill="#5B6B7A">Ocean Fresh</text>
+  <text x="204" y="488" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="700" font-size="11.392857142857144" fill="#FFFFFF">500 ml</text></svg>

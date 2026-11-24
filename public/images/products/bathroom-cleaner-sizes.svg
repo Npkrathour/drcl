@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" width="800" height="464"><g transform="translate(66 212.8) scale(0.62)">
+  <defs>
+    <linearGradient id="body-c0" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0F7873"/>
+      <stop offset=".3" stop-color="#19A7A0"/>
+      <stop offset=".55" stop-color="#6BD6D0"/>
+      <stop offset=".8" stop-color="#19A7A0"/>
+      <stop offset="1" stop-color="#0F7873"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="536" rx="92" ry="12" fill="#0B1F33" opacity=".14"/>
+  
+  <path d="M140 222 C140 184 158 170 176 166 L176 150 L224 150 L224 166 C242 170 260 184 260 222 L268 505 C268 524 256 532 240 532 L160 532 C144 532 132 524 132 505 Z" fill="url(#body-c0)" fill-rule="evenodd"/>
+  <path d="M200 168 L204 516" stroke="#fff" stroke-opacity=".35" stroke-width="4"/>
+  <path d="M150 232 C150 208 156 196 166 190 L160 505 C152 505 146 498 146 490 Z" fill="#fff" opacity=".28"/>
+  <path d="M150 150 L150 98 C150 72 170 60 200 60 L262 60 C276 60 284 68 284 78 L284 94 L250 102 L250 150 Z" fill="#102A43" stroke="#000" stroke-opacity=".1"/><rect x="282" y="68" width="22" height="22" rx="5" fill="#102A43" stroke="#000" stroke-opacity=".12"/><path d="M238 102 C242 118 250 130 248 146 C246 156 234 156 234 146 C234 132 228 120 222 104 Z" fill="#102A43" stroke="#000" stroke-opacity=".12"/><rect x="164" y="140" width="72" height="18" rx="5" fill="#102A43" stroke="#000" stroke-opacity=".1"/><path d="M160 76 C170 68 186 66 200 66" stroke="#fff" stroke-opacity=".5" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <clipPath id="lbl-c0"><rect x="146" y="296" width="108" height="186" rx="14"/></clipPath>
+  <g clip-path="url(#lbl-c0)">
+    <rect x="146" y="296" width="108" height="186" fill="#FFFFFF"/>
+    <rect x="146" y="448" width="108" height="34" fill="#19A7A0"/>
+    <path d="M146 448 Q200 432 254 448 L254 452 Q200 438 146 452 Z" fill="#19A7A0" opacity=".35"/>
+  </g>
+  <path d="M200 312 C207 322 210 327 210 331 A10 10 0 0 1 190 331 C190 327 193 322 200 312 Z" fill="#32B768"/>
+  <path d="M196 330 A5 5 0 0 0 201 335" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="200" y="361.57142857142856" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="28.92857142857143" letter-spacing="1.9285714285714286" fill="#102A43">DRCL</text>
+  <text x="200" y="373.1428571428571" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="600" font-size="5.785714285714286" letter-spacing="1.9285714285714286" fill="#5B6B7A">A CLEANER SPACE</text>
+  <rect x="184" y="378.92857142857144" width="32" height="2" rx="1" fill="#19A7A0"/>
+  <text x="200" y="398.2142857142857" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="14.464285714285715" fill="#102A43">BATHROOM</text>
+  <text x="200" y="414.67857142857144" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="14.464285714285715" fill="#19A7A0">CLEANER</text>
+  <text x="200" y="429.14285714285717" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="500" font-size="7.714285714285714" fill="#5B6B7A">Aqua Mist</text>
+  <text x="200" y="470" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="700" font-size="10.607142857142858" fill="#FFFFFF">500 ml</text></g><g transform="translate(340 111.99999999999997) scale(0.8)">
+  <defs>
+    <linearGradient id="body-c1" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0F7873"/>
+      <stop offset=".3" stop-color="#19A7A0"/>
+      <stop offset=".55" stop-color="#6BD6D0"/>
+      <stop offset=".8" stop-color="#19A7A0"/>
+      <stop offset="1" stop-color="#0F7873"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="536" rx="92" ry="12" fill="#0B1F33" opacity=".14"/>
+  
+  <path d="M140 222 C140 184 158 170 176 166 L176 150 L224 150 L224 166 C242 170 260 184 260 222 L268 505 C268 524 256 532 240 532 L160 532 C144 532 132 524 132 505 Z" fill="url(#body-c1)" fill-rule="evenodd"/>
+  <path d="M200 168 L204 516" stroke="#fff" stroke-opacity=".35" stroke-width="4"/>
+  <path d="M150 232 C150 208 156 196 166 190 L160 505 C152 505 146 498 146 490 Z" fill="#fff" opacity=".28"/>
+  <path d="M150 150 L150 98 C150 72 170 60 200 60 L262 60 C276 60 284 68 284 78 L284 94 L250 102 L250 150 Z" fill="#102A43" stroke="#000" stroke-opacity=".1"/><rect x="282" y="68" width="22" height="22" rx="5" fill="#102A43" stroke="#000" stroke-opacity=".12"/><path d="M238 102 C242 118 250 130 248 146 C246 156 234 156 234 146 C234 132 228 120 222 104 Z" fill="#102A43" stroke="#000" stroke-opacity=".12"/><rect x="164" y="140" width="72" height="18" rx="5" fill="#102A43" stroke="#000" stroke-opacity=".1"/><path d="M160 76 C170 68 186 66 200 66" stroke="#fff" stroke-opacity=".5" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <clipPath id="lbl-c1"><rect x="146" y="296" width="108" height="186" rx="14"/></clipPath>
+  <g clip-path="url(#lbl-c1)">
+    <rect x="146" y="296" width="108" height="186" fill="#FFFFFF"/>
+    <rect x="146" y="448" width="108" height="34" fill="#19A7A0"/>
+    <path d="M146 448 Q200 432 254 448 L254 452 Q200 438 146 452 Z" fill="#19A7A0" opacity=".35"/>
+  </g>
+  <path d="M200 312 C207 322 210 327 210 331 A10 10 0 0 1 190 331 C190 327 193 322 200 312 Z" fill="#32B768"/>
+  <path d="M196 330 A5 5 0 0 0 201 335" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="200" y="361.57142857142856" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="28.92857142857143" letter-spacing="1.9285714285714286" fill="#102A43">DRCL</text>
+  <text x="200" y="373.1428571428571" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="600" font-size="5.785714285714286" letter-spacing="1.9285714285714286" fill="#5B6B7A">A CLEANER SPACE</text>
+  <rect x="184" y="378.92857142857144" width="32" height="2" rx="1" fill="#19A7A0"/>
+  <text x="200" y="398.2142857142857" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="14.464285714285715" fill="#102A43">BATHROOM</text>
+  <text x="200" y="414.67857142857144" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="14.464285714285715" fill="#19A7A0">CLEANER</text>
+  <text x="200" y="429.14285714285717" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="500" font-size="7.714285714285714" fill="#5B6B7A">Aqua Mist</text>
+  <text x="200" y="470" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="700" font-size="10.607142857142858" fill="#FFFFFF">1 L</text></g><g transform="translate(610 0) scale(1)">
+  <defs>
+    <linearGradient id="body-c2" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0F7873"/>
+      <stop offset=".3" stop-color="#19A7A0"/>
+      <stop offset=".55" stop-color="#6BD6D0"/>
+      <stop offset=".8" stop-color="#19A7A0"/>
+      <stop offset="1" stop-color="#0F7873"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="536" rx="92" ry="12" fill="#0B1F33" opacity=".14"/>
+  
+  <path d="M140 222 C140 184 158 170 176 166 L176 150 L224 150 L224 166 C242 170 260 184 260 222 L268 505 C268 524 256 532 240 532 L160 532 C144 532 132 524 132 505 Z" fill="url(#body-c2)" fill-rule="evenodd"/>
+  <path d="M200 168 L204 516" stroke="#fff" stroke-opacity=".35" stroke-width="4"/>
+  <path d="M150 232 C150 208 156 196 166 190 L160 505 C152 505 146 498 146 490 Z" fill="#fff" opacity=".28"/>
+  <path d="M150 150 L150 98 C150 72 170 60 200 60 L262 60 C276 60 284 68 284 78 L284 94 L250 102 L250 150 Z" fill="#102A43" stroke="#000" stroke-opacity=".1"/><rect x="282" y="68" width="22" height="22" rx="5" fill="#102A43" stroke="#000" stroke-opacity=".12"/><path d="M238 102 C242 118 250 130 248 146 C246 156 234 156 234 146 C234 132 228 120 222 104 Z" fill="#102A43" stroke="#000" stroke-opacity=".12"/><rect x="164" y="140" width="72" height="18" rx="5" fill="#102A43" stroke="#000" stroke-opacity=".1"/><path d="M160 76 C170 68 186 66 200 66" stroke="#fff" stroke-opacity=".5" stroke-width="5" fill="none" stroke-linecap="round"/>
+  
+  <clipPath id="lbl-c2"><rect x="146" y="296" width="108" height="186" rx="14"/></clipPath>
+  <g clip-path="url(#lbl-c2)">
+    <rect x="146" y="296" width="108" height="186" fill="#FFFFFF"/>
+    <rect x="146" y="448" width="108" height="34" fill="#19A7A0"/>
+    <path d="M146 448 Q200 432 254 448 L254 452 Q200 438 146 452 Z" fill="#19A7A0" opacity=".35"/>
+  </g>
+  <path d="M200 312 C207 322 210 327 210 331 A10 10 0 0 1 190 331 C190 327 193 322 200 312 Z" fill="#32B768"/>
+  <path d="M196 330 A5 5 0 0 0 201 335" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="200" y="361.57142857142856" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="28.92857142857143" letter-spacing="1.9285714285714286" fill="#102A43">DRCL</text>
+  <text x="200" y="373.1428571428571" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="600" font-size="5.785714285714286" letter-spacing="1.9285714285714286" fill="#5B6B7A">A CLEANER SPACE</text>
+  <rect x="184" y="378.92857142857144" width="32" height="2" rx="1" fill="#19A7A0"/>
+  <text x="200" y="398.2142857142857" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="14.464285714285715" fill="#102A43">BATHROOM</text>
+  <text x="200" y="414.67857142857144" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="14.464285714285715" fill="#19A7A0">CLEANER</text>
+  <text x="200" y="429.14285714285717" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="500" font-size="7.714285714285714" fill="#5B6B7A">Aqua Mist</text>
+  <text x="200" y="470" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="700" font-size="10.607142857142858" fill="#FFFFFF">5 L</text></g></svg>

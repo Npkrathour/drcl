@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #102a43;
+  --color-navy-800: #163553;
+  --color-navy-600: #2b4c6f;
+  --color-fresh: #32b768;
+  --color-fresh-600: #26995a;
+  --color-fresh-100: #e3f5ea;
+  --color-mint: #f3f8f5;
+  --color-charcoal: #202b35;
+  --color-muted: #5b6b7a;
+  --color-line: #e3ebe6;
+  --color-navy-950: #0a1c2e;
+  --color-aqua: #19a7a0;
+  --color-aqua-100: #dff4f3;
+  --color-sky: #2e86cc;
+  --color-sky-100: #e4f1fb;
+  --color-sun: #f2b33d;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-poppins), var(--font-inter), ui-sans-serif, sans-serif;
+
+  --shadow-soft: 0 1px 2px rgb(16 42 67 / 0.04), 0 8px 24px -8px rgb(16 42 67 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(16 42 67 / 0.04), 0 24px 48px -16px rgb(16 42 67 / 0.22);
+
+  --animate-shimmer: shimmer 2.4s linear infinite;
+  @keyframes shimmer {
+    from { background-position: -200% 0; }
+    to { background-position: 200% 0; }
+  }
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-charcoal);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-fresh);
+  color: #fff;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-fresh);
+  outline-offset: 2px;
+}
+
+/* Custom classes. Tailwind v4 — defined with @utility so they work with variants and HMR. */
+@utility container-x {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+/* Small label pill above headings. Set --eyebrow-bg to change its background (e.g. none on dark sections). */
+@utility eyebrow {
+  @apply inline-flex items-center gap-2 rounded-full border border-fresh/20 px-3 py-1 text-xs font-semibold tracking-[0.14em] text-fresh-600 uppercase;
+  background-image: var(--eyebrow-bg, linear-gradient(90deg, #e3f5ea 0%, #dff4f3 100%));
+}
+
+@utility heading-xl {
+  @apply font-display text-[2.4rem] leading-[1.08] font-semibold tracking-tight text-navy sm:text-5xl lg:text-6xl;
+}
+
+@utility heading-lg {
+  @apply font-display text-3xl leading-tight font-semibold tracking-tight text-navy sm:text-4xl;
+}
+
+/* Brand gradient: fresh green → aqua → sky. Used for highlight words. */
+@utility text-gradient {
+  background-image: linear-gradient(100deg, #32b768 0%, #19a7a0 55%, #2e86cc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@utility bg-brand-gradient {
+  background-image: linear-gradient(120deg, #32b768 0%, #22a37c 55%, #19a7a0 100%);
+}
+
+/* Deep navy with a teal undertone for dark sections. */
+@utility bg-navy-gradient {
+  background-color: #102a43;
+  background-image:
+    radial-gradient(ellipse 70% 60% at 100% 0%, rgb(25 167 160 / 0.22), transparent 60%),
+    radial-gradient(ellipse 60% 60% at 0% 100%, rgb(50 183 104 / 0.18), transparent 60%),
+    linear-gradient(160deg, #0b2236 0%, #102a43 50%, #0e3346 100%);
+}
+
+@utility bg-mint-gradient {
+  background-color: #f3f8f5;
+  background-image:
+    radial-gradient(ellipse 50% 40% at 90% 0%, rgb(25 167 160 / 0.08), transparent 70%),
+    radial-gradient(ellipse 50% 40% at 0% 100%, rgb(46 134 204 / 0.07), transparent 70%),
+    linear-gradient(180deg, #f3f8f5 0%, #edf6f1 100%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

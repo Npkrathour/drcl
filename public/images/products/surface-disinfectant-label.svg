@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="110 276 180 251.99999999999997" width="800" height="1120">
+  <defs>
+    <linearGradient id="body-b" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#C9D4DE"/>
+      <stop offset=".3" stop-color="#F4F7FA"/>
+      <stop offset=".55" stop-color="#FFFFFF"/>
+      <stop offset=".8" stop-color="#F4F7FA"/>
+      <stop offset="1" stop-color="#C9D4DE"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="536" rx="92" ry="12" fill="#0B1F33" opacity=".14"/>
+  
+  <path d="M124 300 C124 236 160 206 182 200 L182 176 L218 176 L218 200 C240 206 276 236 276 300 L276 505 C276 524 264 532 246 532 L154 532 C136 532 124 524 124 505 Z" fill="url(#body-b)" fill-rule="evenodd"/>
+  
+  <path d="M140 306 C140 270 152 248 166 238 L166 505 C156 505 140 498 140 488 Z" fill="#fff" opacity=".28"/>
+  <rect x="170" y="128" width="60" height="52" rx="8" fill="#102A43"/><rect x="166" y="120" width="68" height="16" rx="6" fill="#102A43"/><rect x="174" y="146" width="52" height="4" rx="2" fill="#fff" opacity=".25"/>
+  
+  <clipPath id="lbl-b"><rect x="140" y="306" width="120" height="194" rx="14"/></clipPath>
+  <g clip-path="url(#lbl-b)">
+    <rect x="140" y="306" width="120" height="194" fill="#FFFFFF"/>
+    <rect x="140" y="466" width="120" height="34" fill="#102A43"/>
+    <path d="M140 466 Q200 450 260 466 L260 470 Q200 456 140 470 Z" fill="#102A43" opacity=".35"/>
+  </g>
+  <path d="M200 322 C207 332 210 337 210 341 A10 10 0 0 1 190 341 C190 337 193 332 200 322 Z" fill="#32B768"/>
+  <path d="M196 340 A5 5 0 0 0 201 345" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="200" y="378.8571428571429" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="32.14285714285714" letter-spacing="2.142857142857143" fill="#102A43">DRCL</text>
+  <text x="200" y="391.7142857142857" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="600" font-size="6.428571428571429" letter-spacing="2.142857142857143" fill="#5B6B7A">A CLEANER SPACE</text>
+  <rect x="184" y="398.1428571428571" width="32" height="2" rx="1" fill="#102A43"/>
+  <text x="200" y="419.57142857142856" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="16.07142857142857" fill="#102A43">SURFACE</text>
+  <text x="200" y="433.8928571428571" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="800" font-size="12.321428571428571" fill="#102A43">DISINFECTANT</text>
+  <text x="200" y="449.96428571428567" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="500" font-size="8.571428571428571" fill="#5B6B7A">Use as directed</text>
+  <text x="200" y="488" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, Helvetica, sans-serif" font-weight="700" font-size="11.785714285714285" fill="#FFFFFF">1 L</text></svg>
